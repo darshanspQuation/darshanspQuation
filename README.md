@@ -52,11 +52,11 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Darshan-S-P&show_icons=true&locale=en&layout=compact" alt="Darshan-S-P" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshanspQuation&show_icons=true&locale=en&layout=compact" alt="darshanspQuation" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Darshan-S-P&show_icons=true&locale=en" alt="Darshan-S-P" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshanspQuation&show_icons=true&locale=en" alt="darshanspQuation" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Darshan-S-P&" alt="Darshan-S-P" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshanspQuation&" alt="darshanspQuation" /></p>
 
 <div align="center">
 
