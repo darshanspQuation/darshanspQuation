@@ -3,7 +3,7 @@
 <h1 align="center"> Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Darshan SP </h1>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?&color=2484FF&size=32&lines=Web+Developer💙;UI/UX+Developer⭐;Lover+Of+Coding+Problems🎯;Constantly+Learning⚡&font=Pacifico&center=true&height=50&width=600&vCenter=true)](https://github.com/Darshan-S-P)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?&color=2484FF&size=32&lines=Web+Developer💙;UI/UX+Developer⭐;Lover+Of+Coding+Problems🎯;Constantly+Learning⚡&font=Pacifico&center=true&height=50&width=600&vCenter=true)](https://github.com/darshanspQuation)
 
 </div>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
